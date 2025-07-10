@@ -1,0 +1,583 @@
+[
+  {
+    "name": "PeopleFinders",
+    "url": "https://www.peoplefinders.com",
+    "opt_out_url": "https://www.peoplefinders.com/manage/",
+    "requires_id_upload": false,
+    "notes": "Enter your email in the email field. Click the 'I agree' checkbox for the terms of use. Then click the 'Continue' button. If you see a search form, enter your name and address to find your listing first."
+  },
+  {
+    "name": "Spokeo",
+    "url": "https://www.spokeo.com",
+    "opt_out_url": "https://www.spokeo.com/opt_out/new",
+    "requires_id_upload": true,
+    "notes": "Search for your name first. Fill out the opt-out form with your information. Upload a photo ID for verification. Check all required checkboxes before submitting."
+  },
+  {
+    "name": "BeenVerified",
+    "url": "https://www.beenverified.com",
+    "opt_out_url": "https://www.beenverified.com/faq/opt-out/",
+    "requires_id_upload": false,
+    "notes": "FAQ-based opt-out process"
+  },
+  {
+    "name": "Whitepages",
+    "url": "https://www.whitepages.com",
+    "opt_out_url": "https://www.whitepages.com/suppression-requests",
+    "requires_id_upload": false,
+    "notes": "Suppression request form"
+  },
+  {
+    "name": "Intelius",
+    "url": "https://www.intelius.com",
+    "opt_out_url": "https://www.intelius.com/opt-out",
+    "requires_id_upload": false,
+    "notes": "Enter your email address. Check the 'I agree to terms' checkbox. Click the 'Submit' button. If you see a search form, enter your name and address to find your listing first."
+  },
+  {
+    "name": "TruthFinder",
+    "url": "https://www.truthfinder.com",
+    "opt_out_url": "https://www.truthfinder.com/opt-out/",
+    "requires_id_upload": false,
+    "notes": "Standard opt-out process"
+  },
+  {
+    "name": "MyLife",
+    "url": "https://www.mylife.com",
+    "opt_out_url": "https://www.mylife.com/ccpa",
+    "requires_id_upload": false,
+    "notes": "CCPA compliance page"
+  },
+  {
+    "name": "PeekYou",
+    "url": "https://www.peekyou.com",
+    "opt_out_url": "https://www.peekyou.com/about/contact/optout/index.php",
+    "requires_id_upload": false,
+    "notes": "Contact-based opt-out"
+  },
+  {
+    "name": "Radaris",
+    "url": "https://radaris.com",
+    "opt_out_url": "https://radaris.com/control/privacy",
+    "requires_id_upload": false,
+    "notes": "Privacy control center"
+  },
+  {
+    "name": "US Search",
+    "url": "https://www.ussearch.com",
+    "opt_out_url": "https://www.ussearch.com/opt-out/",
+    "requires_id_upload": false,
+    "notes": "Direct opt-out page"
+  },
+  {
+    "name": "411.com",
+    "url": "https://www.411.com",
+    "opt_out_url": "https://www.whitepages.com/suppression-requests",
+    "requires_id_upload": false,
+    "notes": "Processed via Whitepages (phone verification)"
+  },
+  {
+    "name": "411 Locate",
+    "url": "https://www.411locate.com",
+    "opt_out_url": "https://www.411locate.com",
+    "requires_id_upload": false,
+    "notes": "Removal via contact form (submit listing URL)"
+  },
+  {
+    "name": "Acxiom",
+    "url": "https://www.acxiom.com",
+    "opt_out_url": "https://isapps.acxiom.com/optout/optout.aspx",
+    "requires_id_upload": false,
+    "notes": "Marketing data opt-out form"
+  },
+  {
+    "name": "Advanced Background Checks",
+    "url": "https://www.advancedbackgroundchecks.com",
+    "opt_out_url": "https://www.advancedbackgroundchecks.com/removal",
+    "requires_id_upload": false,
+    "notes": "Standard opt-out form"
+  },
+  {
+    "name": "Addresses.com",
+    "url": "https://www.addresses.com",
+    "opt_out_url": "https://www.addresses.com/privacy",
+    "requires_id_upload": false,
+    "notes": "Direct opt-out page"
+  },
+  {
+    "name": "AnyWho",
+    "url": "https://www.anywho.com",
+    "opt_out_url": "https://www.anywho.com/optout",
+    "requires_id_upload": false,
+    "notes": "Standard opt-out form"
+  },
+  {
+    "name": "ArrestFacts",
+    "url": "https://www.arrestfacts.com",
+    "opt_out_url": "https://www.arrestfacts.com/contact",
+    "requires_id_upload": false,
+    "notes": "Contact-based opt-out"
+  },
+  {
+    "name": "Arrests.org",
+    "url": "https://arrests.org",
+    "opt_out_url": "https://arrests.org/opt-out",
+    "requires_id_upload": false,
+    "notes": "Email removal request required"
+  },
+  {
+    "name": "Background Alert",
+    "url": "https://www.backgroundalert.com",
+    "opt_out_url": "https://www.backgroundalert.com/optout",
+    "requires_id_upload": false,
+    "notes": "Standard opt-out form"
+  },
+  {
+    "name": "BackgroundCheck.run",
+    "url": "https://backgroundcheck.run",
+    "opt_out_url": "https://backgroundcheck.run/optout",
+    "requires_id_upload": false,
+    "notes": "Direct opt-out page"
+  },
+  {
+    "name": "BlockShopper",
+    "url": "https://www.blockshopper.com",
+    "opt_out_url": "https://www.blockshopper.com/privacy",
+    "requires_id_upload": false,
+    "notes": "Contact-based opt-out"
+  },
+  {
+    "name": "CallTruth",
+    "url": "https://www.calltruth.com",
+    "opt_out_url": "https://www.calltruth.com/optout",
+    "requires_id_upload": false,
+    "notes": "Standard opt-out form"
+  },
+  {
+    "name": "CheckPeople",
+    "url": "https://checkpeople.com",
+    "opt_out_url": "https://checkpeople.com/opt-out",
+    "requires_id_upload": false,
+    "notes": "Standard opt-out form"
+  },
+  {
+    "name": "ClustrMaps",
+    "url": "https://clustrmaps.com",
+    "opt_out_url": "https://clustrmaps.com/privacy#optout",
+    "requires_id_upload": false,
+    "notes": "Direct opt-out page"
+  },
+  {
+    "name": "CocoFinder",
+    "url": "https://cocofinder.com",
+    "opt_out_url": "https://cocofinder.com/removal",
+    "requires_id_upload": false,
+    "notes": "Standard opt-out form"
+  },
+  {
+    "name": "CoreLogic",
+    "url": "https://www.corelogic.com",
+    "opt_out_url": "https://www.corelogic.com/privacy",
+    "requires_id_upload": false,
+    "notes": "CCPA request form (identity verification required)"
+  },
+  {
+    "name": "OptOutPrescreen",
+    "url": "https://www.optoutprescreen.com",
+    "opt_out_url": "https://www.optoutprescreen.com",
+    "requires_id_upload": false,
+    "notes": "Opt-out of credit offers (US credit bureaus)"
+  },
+  {
+    "name": "CyberBackgroundChecks",
+    "url": "https://www.cyberbackgroundchecks.com",
+    "opt_out_url": "https://www.cyberbackgroundchecks.com/removal",
+    "requires_id_upload": false,
+    "notes": "Standard opt-out form"
+  },
+  {
+    "name": "Dynata",
+    "url": "https://www.dynata.com",
+    "opt_out_url": "https://www.dynata.com/participant-rights-management",
+    "requires_id_upload": false,
+    "notes": "Survey data opt-out form"
+  },
+  {
+    "name": "FamilyTreeNow",
+    "url": "https://www.familytreenow.com",
+    "opt_out_url": "https://www.familytreenow.com/optout",
+    "requires_id_upload": false,
+    "notes": "Direct opt-out page"
+  },
+  {
+    "name": "Fast People Search",
+    "url": "https://www.fastpeoplesearch.com",
+    "opt_out_url": "https://www.fastpeoplesearch.com/removal",
+    "requires_id_upload": false,
+    "notes": "Standard opt-out form"
+  },
+  {
+    "name": "FastBackgroundCheck",
+    "url": "https://www.fastbackgroundcheck.com",
+    "opt_out_url": "https://www.fastbackgroundcheck.com/removal",
+    "requires_id_upload": false,
+    "notes": "Standard opt-out form"
+  },
+  {
+    "name": "Florida Resident Database",
+    "url": "https://floridaresidents.directory",
+    "opt_out_url": "https://floridaresidents.directory/optout",
+    "requires_id_upload": false,
+    "notes": "Contact-based opt-out"
+  },
+  {
+    "name": "GoLookUp",
+    "url": "https://golookup.com",
+    "opt_out_url": "https://golookup.com/removal",
+    "requires_id_upload": false,
+    "notes": "Standard opt-out form"
+  },
+  {
+    "name": "Homemetry",
+    "url": "https://homemetry.com",
+    "opt_out_url": "https://homemetry.com/optout.php",
+    "requires_id_upload": false,
+    "notes": "Direct opt-out page"
+  },
+  {
+    "name": "Innovis",
+    "url": "https://www.innovis.com",
+    "opt_out_url": "https://www.optoutprescreen.com",
+    "requires_id_upload": false,
+    "notes": "Uses OptOutPrescreen (mail-in form for permanent opt-out)"
+  },
+  {
+    "name": "Instant Checkmate",
+    "url": "https://www.instantcheckmate.com",
+    "opt_out_url": "https://www.instantcheckmate.com/opt-out/",
+    "requires_id_upload": false,
+    "notes": "Standard opt-out form"
+  },
+  {
+    "name": "IDTrue",
+    "url": "https://www.idtrue.com",
+    "opt_out_url": "https://www.idtrue.com/optout",
+    "requires_id_upload": false,
+    "notes": "Standard opt-out form"
+  },
+  {
+    "name": "Kiwi Searches",
+    "url": "https://kiwisearches.com",
+    "opt_out_url": "https://kiwisearches.com/opt-out",
+    "requires_id_upload": false,
+    "notes": "Standard opt-out form"
+  },
+  {
+    "name": "LexisNexis",
+    "url": "https://www.lexisnexis.com",
+    "opt_out_url": "https://optout.lexisnexis.com/",
+    "requires_id_upload": true,
+    "notes": "Requires documentation (risk or ID theft proof)"
+  },
+  {
+    "name": "LocatePeople.org",
+    "url": "https://www.locatepeople.org",
+    "opt_out_url": "https://www.locatepeople.org/optout",
+    "requires_id_upload": false,
+    "notes": "Standard opt-out form"
+  },
+  {
+    "name": "Michigan Resident Database",
+    "url": "https://michiganresidentdatabase.com",
+    "opt_out_url": "https://michiganresidentdatabase.com/optout",
+    "requires_id_upload": false,
+    "notes": "Contact-based opt-out"
+  },
+  {
+    "name": "Mugshots.com",
+    "url": "https://mugshots.com",
+    "opt_out_url": "https://mugshots.com/record-maintenance",
+    "requires_id_upload": true,
+    "notes": "Requires court documentation via email"
+  },
+  {
+    "name": "NeighborWho",
+    "url": "https://www.neighborwho.com",
+    "opt_out_url": "https://www.neighborwho.com/do-not-sell-my-personal-information",
+    "requires_id_upload": false,
+    "notes": "Online opt-out form (email verification)"
+  },
+  {
+    "name": "NJ Parcels",
+    "url": "https://njparcels.com",
+    "opt_out_url": "https://njparcels.com/optout",
+    "requires_id_upload": false,
+    "notes": "Contact-based opt-out"
+  },
+  {
+    "name": "North Carolina Resident Database",
+    "url": "https://northcarolinaresidents.com",
+    "opt_out_url": "https://northcarolinaresidents.com/optout",
+    "requires_id_upload": false,
+    "notes": "Contact-based opt-out"
+  },
+  {
+    "name": "Numberville",
+    "url": "http://www.numberville.com",
+    "opt_out_url": "http://www.numberville.com/optout",
+    "requires_id_upload": false,
+    "notes": "Standard opt-out form"
+  },
+  {
+    "name": "NumLookup",
+    "url": "https://www.numlookup.com",
+    "opt_out_url": "https://www.numlookup.com/remove",
+    "requires_id_upload": false,
+    "notes": "Standard opt-out form"
+  },
+  {
+    "name": "Nuwber",
+    "url": "https://nuwber.com",
+    "opt_out_url": "https://nuwber.com/removal/link",
+    "requires_id_upload": false,
+    "notes": "Standard opt-out form"
+  },
+  {
+    "name": "Ohio Resident Database",
+    "url": "https://ohioresidentdatabase.com",
+    "opt_out_url": "https://ohioresidentdatabase.com/optout",
+    "requires_id_upload": false,
+    "notes": "Contact-based opt-out"
+  },
+  {
+    "name": "OfficialUSA.com",
+    "url": "https://officialusa.com",
+    "opt_out_url": "https://officialusa.com/optout",
+    "requires_id_upload": false,
+    "notes": "Standard opt-out form"
+  },
+  {
+    "name": "OpenPublicRecords",
+    "url": "https://www.open-public-records.com",
+    "opt_out_url": "https://www.open-public-records.com/optout",
+    "requires_id_upload": false,
+    "notes": "Standard opt-out form"
+  },
+  {
+    "name": "Ownerly",
+    "url": "https://www.ownerly.com",
+    "opt_out_url": "https://www.ownerly.com/privacy",
+    "requires_id_upload": false,
+    "notes": "Privacy request form"
+  },
+  {
+    "name": "OkCaller",
+    "url": "https://www.okcaller.com",
+    "opt_out_url": "https://www.okcaller.com/remove",
+    "requires_id_upload": false,
+    "notes": "Direct opt-out page"
+  },
+  {
+    "name": "PeopleByName",
+    "url": "https://www.peoplebyname.com",
+    "opt_out_url": "https://www.peoplebyname.com/optout",
+    "requires_id_upload": false,
+    "notes": "Standard opt-out form"
+  },
+  {
+    "name": "PeopleLooker",
+    "url": "https://www.peoplelooker.com",
+    "opt_out_url": "https://www.beenverified.com/faq/opt-out/",
+    "requires_id_upload": false,
+    "notes": "Uses BeenVerified opt-out form"
+  },
+  {
+    "name": "PeopleSearchNow",
+    "url": "https://www.peoplesearchnow.com",
+    "opt_out_url": "https://www.peoplesearchnow.com/optout",
+    "requires_id_upload": false,
+    "notes": "Standard opt-out form"
+  },
+  {
+    "name": "PeopleSmart",
+    "url": "https://www.peoplesmart.com",
+    "opt_out_url": "https://www.beenverified.com/faq/opt-out/",
+    "requires_id_upload": false,
+    "notes": "Uses BeenVerified opt-out form"
+  },
+  {
+    "name": "PeopleWhiz",
+    "url": "https://www.peoplewhiz.com",
+    "opt_out_url": "https://www.peoplewhiz.com/remove-my-info",
+    "requires_id_upload": true,
+    "notes": "Requires ID verification (mail or upload)"
+  },
+  {
+    "name": "Persopo",
+    "url": "https://www.persopo.com",
+    "opt_out_url": "https://www.persopo.com/optout",
+    "requires_id_upload": false,
+    "notes": "Standard opt-out form"
+  },
+  {
+    "name": "Pipl",
+    "url": "https://pipl.com",
+    "opt_out_url": "https://pipl.com/contact/",
+    "requires_id_upload": false,
+    "notes": "Contact-based opt-out"
+  },
+  {
+    "name": "PrivateEye",
+    "url": "https://www.privateeye.com",
+    "opt_out_url": "https://secure.privateeye.com/help/default.aspx#3",
+    "requires_id_upload": false,
+    "notes": "Opt-out via online form"
+  },
+  {
+    "name": "PrivateRecords.net",
+    "url": "https://www.privaterecords.net",
+    "opt_out_url": "https://www.privaterecords.net/optout",
+    "requires_id_upload": false,
+    "notes": "Standard opt-out form"
+  },
+  {
+    "name": "PublicRecords.com",
+    "url": "https://www.publicrecords.com",
+    "opt_out_url": "https://www.publicrecords.com/optout",
+    "requires_id_upload": false,
+    "notes": "Standard opt-out form"
+  },
+  {
+    "name": "PublicRecordsNow",
+    "url": "https://www.publicrecordsnow.com",
+    "opt_out_url": "https://www.publicrecordsnow.com/optout",
+    "requires_id_upload": false,
+    "notes": "Standard opt-out form"
+  },
+  {
+    "name": "PublicDataUSA",
+    "url": "https://www.publicdatausa.com",
+    "opt_out_url": "https://www.publicdatausa.com/remove",
+    "requires_id_upload": false,
+    "notes": "Standard opt-out form"
+  },
+  {
+    "name": "RedPlum (RetailMeNot)",
+    "url": "https://www.retailmenot.com",
+    "opt_out_url": "https://save.com/mailing/delivery-options",
+    "requires_id_upload": false,
+    "notes": "Direct mail opt-out form"
+  },
+  {
+    "name": "Rehold",
+    "url": "https://rehold.com",
+    "opt_out_url": "https://rehold.com/opt-out",
+    "requires_id_upload": false,
+    "notes": "Standard opt-out form"
+  },
+  {
+    "name": "SageStream (LexisNexis Risk)",
+    "url": "https://risk.lexisnexis.com",
+    "opt_out_url": "https://optout.lexisnexis.com/",
+    "requires_id_upload": false,
+    "notes": "Credit report opt-out (via LexisNexis)"
+  },
+  {
+    "name": "Search People Free",
+    "url": "https://www.searchpeoplefree.com",
+    "opt_out_url": "https://www.searchpeoplefree.com/removal",
+    "requires_id_upload": false,
+    "notes": "Standard opt-out form"
+  },
+  {
+    "name": "SearchPublicRecords",
+    "url": "https://www.searchpublicrecords.com",
+    "opt_out_url": "https://www.searchpublicrecords.com/optout",
+    "requires_id_upload": false,
+    "notes": "Standard opt-out form"
+  },
+  {
+    "name": "Smart Background Checks",
+    "url": "https://www.smartbackgroundchecks.com",
+    "opt_out_url": "https://www.smartbackgroundchecks.com/optout",
+    "requires_id_upload": false,
+    "notes": "Standard opt-out form"
+  },
+  {
+    "name": "Social Catfish",
+    "url": "https://socialcatfish.com",
+    "opt_out_url": "https://socialcatfish.com/opt-out",
+    "requires_id_upload": false,
+    "notes": "Direct opt-out page"
+  },
+  {
+    "name": "Spydialer",
+    "url": "https://www.spydialer.com",
+    "opt_out_url": "https://www.spydialer.com/optout",
+    "requires_id_upload": false,
+    "notes": "Direct opt-out page"
+  },
+  {
+    "name": "SpyFly",
+    "url": "https://www.spyfly.com",
+    "opt_out_url": "https://www.spyfly.com/optout.php",
+    "requires_id_upload": false,
+    "notes": "Direct opt-out page"
+  },
+  {
+    "name": "ThatsThem",
+    "url": "https://thatsthem.com",
+    "opt_out_url": "https://thatsthem.com/optout",
+    "requires_id_upload": false,
+    "notes": "Direct opt-out page"
+  },
+  {
+    "name": "TrueCaller",
+    "url": "https://www.truecaller.com",
+    "opt_out_url": "https://www.truecaller.com/unlisting",
+    "requires_id_upload": false,
+    "notes": "Phone number unlisting"
+  },
+  {
+    "name": "TruePeopleSearch",
+    "url": "https://www.truepeoplesearch.com",
+    "opt_out_url": "https://www.truepeoplesearch.com/removal",
+    "requires_id_upload": false,
+    "notes": "Direct opt-out page"
+  },
+  {
+    "name": "USA People Search",
+    "url": "https://www.usa-people-search.com",
+    "opt_out_url": "https://www.usa-people-search.com/opt-out",
+    "requires_id_upload": false,
+    "notes": "Direct opt-out page"
+  },
+  {
+    "name": "UsPhonebook",
+    "url": "https://www.usphonebook.com",
+    "opt_out_url": "https://www.usphonebook.com/removal",
+    "requires_id_upload": false,
+    "notes": "Standard opt-out form"
+  },
+  {
+    "name": "VoterRecords",
+    "url": "https://voterrecords.com",
+    "opt_out_url": "https://voterrecords.com/optout",
+    "requires_id_upload": false,
+    "notes": "Standard opt-out form"
+  },
+  {
+    "name": "ZabaSearch",
+    "url": "https://www.zabasearch.com",
+    "opt_out_url": "https://www.zabasearch.com/optout",
+    "requires_id_upload": false,
+    "notes": "Standard opt-out form"
+  },
+  {
+    "name": "ZoomInfo",
+    "url": "https://www.zoominfo.com",
+    "opt_out_url": "https://www.zoominfo.com/privacy-center",
+    "requires_id_upload": false,
+    "notes": "Requires work email verification"
+  }
+]
