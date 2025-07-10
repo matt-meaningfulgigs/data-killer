@@ -204,5 +204,4 @@ This tool is for educational and personal use. Users are responsible for:
 - Complying with applicable laws and regulations
 - Using the tool responsibly and ethically
 
-The authors are not responsible for any misuse of this tool. 
->>>>>>> 577f216 (Initial clean import of Data Killer project)
+The authors are not responsible for any misuse of this tool.
